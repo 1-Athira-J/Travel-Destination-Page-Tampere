@@ -3,7 +3,7 @@
 A simple travel destination page using HTML and CSS.
 
 ## Preview
-
+![Screenshot](/WebsiteScreenshot.png)
 
 ## Technologies used 
 - HTML5 → structure & semantic layout
